@@ -1,0 +1,5 @@
+Offline example:
+
+```js
+<Offline />
+```
